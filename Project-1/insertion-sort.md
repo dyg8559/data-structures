@@ -53,3 +53,7 @@ Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
 6.	Aşama: [2, 3, 4, 5, 6, 7, 8, 15, 9]
 
 7. Aşama: [2, 3, 4, 5, 6, 7, 8, 9, 15]
+
+
+
+www.patika.dev

@@ -99,3 +99,6 @@ Root:7
 
 Root’un sağında 8, Solunda 5 bulunur.
 
+
+www.patika.dev
+
